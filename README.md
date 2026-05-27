@@ -1,2 +1,4 @@
 # Message-Encryption-Cipher
-there are some codes that use ai (this is my first project)
+half of the code of this project is ai to help me
+
+(this is my first project)
